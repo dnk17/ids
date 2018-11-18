@@ -25,9 +25,9 @@
 - `[Analysis 1] USF.ipynb`: Predictive accuracy of USF. 
 
 ## Analysis 2 
-- `[Analysis 2] Combination Model.ipynb`: Multivariate linear regression's Spearman $\rho$ and variable coefficients. 
-- `[Analysis 2] Logistic Regression.ipynb`: Spearman $\rho$ of HBC, word2Vec, concreteness, valence, usage frequency from linear regression.
-- `[Analysis 2] USF.ipynb`: Spearman $\rho$ of USF from linear regression. 
+- `[Analysis 2] Combination Model.ipynb`: Multivariate linear regression's Spearman ρ and variable coefficients. 
+- `[Analysis 2] Logistic Regression.ipynb`: Spearman ρ of HBC, word2Vec, concreteness, valence, usage frequency from linear regression.
+- `[Analysis 2] USF.ipynb`: Spearman ρ of USF from linear regression. 
 
 ## Analysis 3 
 - `[Analysis 2] HBC_Tiering.ipynb`: (main text) Gradient of colexification frequencies in ordered association sets, using HBC. 
