@@ -1,0 +1,1027 @@
+index,ids_index,ids_name
+0,0,world
+1,1,"earth, land"
+2,2,"earth=ground, soil"
+3,3,dust
+4,4,mud
+5,5,sand
+6,6,"mountain, hill"
+7,7,"cliff, precipice"
+8,8,"plain, field"
+9,9,valley
+10,10,island
+11,12,shore
+12,13,cave
+13,14,water
+14,15,sea
+15,16,calm (of sea)
+16,17,rough (of sea)
+17,18,foam
+18,19,ocean
+19,20,lake
+20,21,"gulf, bay"
+21,22,lagoon
+22,23,reef
+23,24,"headland, point"
+24,25,wave
+25,26,tide
+26,29,"river, stream, brook"
+27,31,"spring, well"
+28,32,swamp
+29,33,waterfall
+30,34,"woods, forest"
+31,35,tree (cf 08.600)
+32,36,wood
+33,37,"stone, rock"
+34,38,earthquake
+35,39,sky
+36,40,sun
+37,41,moon
+38,42,star
+39,43,lightning
+40,44,thunder
+41,45,lightning (as striking)
+42,46,storm
+43,47,rainbow
+44,48,light (noun)
+45,49,darkness
+46,50,"shade, shadow"
+47,51,dew
+48,52,air
+49,53,wind
+50,54,cloud
+51,55,fog
+52,56,rain (noun)
+53,57,snow (noun)
+54,58,ice
+55,59,weather
+56,60,fire
+57,61,flame (noun)
+58,62,smoke (noun)
+59,63,ashes
+60,65,burn (vb trans)
+61,66,burn (vb intrans)
+62,67,"light, kindle, ignite"
+63,69,match (noun)
+64,71,charcoal
+65,72,"person, human being"
+66,73,man (vs. woman)
+67,74,woman
+68,75,male
+69,76,female
+70,77,boy
+71,79,girl
+72,81,child
+73,82,"infant, baby"
+74,83,husband
+75,84,wife
+76,85,marry
+77,86,"marriage, wedding"
+78,87,divorce
+79,88,father
+80,89,mother
+81,90,parents
+82,93,son
+83,94,daughter
+84,96,brother
+85,99,sister
+86,102,sibling
+87,110,uncle
+88,113,aunt
+89,116,nephew
+90,117,niece
+91,118,cousin
+92,134,widow
+93,137,family
+94,139,you (singular)
+95,144,you (plural)
+96,146,animal
+97,147,male (adj)
+98,148,female (adj)
+99,150,pasture
+100,152,"stable, stall"
+101,153,cattle (bovine)
+102,154,bull
+103,155,ox
+104,156,cow
+105,157,calf
+106,158,sheep
+107,159,ram
+108,160,ewe
+109,161,lamb
+110,163,sow (2)
+111,164,pig
+112,165,goat
+113,167,kid
+114,168,horse (equine)
+115,169,stallion
+116,170,mare
+117,171,"foal, colt"
+118,172,"ass, donkey"
+119,173,mule
+120,175,"cock, rooster"
+121,176,hen
+122,177,chicken
+123,178,goose
+124,179,duck
+125,180,nest
+126,181,bird
+127,182,seagull
+128,184,eagle
+129,185,hawk
+130,187,bat
+131,188,parrot
+132,189,crow
+133,190,dove
+134,191,owl
+135,192,dog
+136,193,rabbit
+137,194,cat
+138,196,"mouse, rat"
+139,197,fish
+140,198,fin (dorsal)
+141,201,shell
+142,202,shark
+143,203,"porpoise, dolphin"
+144,204,whale
+145,207,wolf
+146,208,lion
+147,209,bear
+148,210,fox
+149,211,deer
+150,212,monkey
+151,213,elephant
+152,214,camel
+153,215,insect
+154,218,flea
+155,222,ant
+156,223,spider
+157,225,bee
+158,228,wasp
+159,229,fly
+160,231,mosquito
+161,232,worm
+162,233,snake
+163,235,butterfly
+164,236,grasshopper
+165,237,snail
+166,238,frog
+167,239,lizard
+168,240,"crocodile, alligator"
+169,241,turtle
+170,242,body
+171,243,"skin, hide"
+172,244,flesh
+173,245,hair (head)
+174,246,beard
+175,249,dandruff
+176,250,blood
+177,251,"vein, artery"
+178,252,bone
+179,253,rib
+180,254,horn
+181,255,tail
+182,256,back
+183,257,spine
+184,258,head
+185,259,"side of head, temple"
+186,260,skull
+187,261,brain
+188,262,face
+189,263,forehead
+190,264,jaw
+191,265,cheek
+192,267,eye
+193,270,eyelash
+194,272,ear
+195,275,nose
+196,278,mouth
+197,280,lip
+198,281,tongue
+199,282,tooth
+200,283,gums
+201,285,neck
+202,287,throat
+203,288,shoulder
+204,291,arm
+205,293,elbow
+206,294,wrist
+207,295,hand
+208,297,finger
+209,298,thumb
+210,299,fingernail
+211,300,claw
+212,301,leg
+213,302,thigh
+214,304,knee
+215,305,foot
+216,306,ankle
+217,307,heel
+218,309,toe
+219,311,feather
+220,312,chest
+221,313,breast (of woman)
+222,317,heart
+223,318,lung
+224,319,liver
+225,320,kidney
+226,322,stomach
+227,324,waist
+228,325,hip
+229,330,"breathe, breath"
+230,331,"yawn, gape"
+231,333,cough
+232,334,sneeze
+233,335,perspire
+234,336,spit
+235,337,vomit
+236,338,bite
+237,339,lick
+238,341,sleep
+239,342,snore
+240,343,dream
+241,349,shiver
+242,355,"live, living, life"
+243,356,"die, dead"
+244,358,kill
+245,359,corpse
+246,360,bury (the dead)
+247,361,"grave, tomb"
+248,362,"strong, mighty, powerful"
+249,363,weak
+250,364,"well, health"
+251,365,"sick, sickness"
+252,366,fever
+253,368,cold (catarrh)
+254,369,"wound, sore"
+255,370,bruise
+256,372,itch
+257,374,boil (noun)
+258,376,scar
+259,377,"cure, heal"
+260,378,physician
+261,379,"medicine, drug"
+262,380,poison
+263,381,"tired, weary"
+264,382,rest
+265,383,lazy
+266,384,bald
+267,386,deaf
+268,387,mute
+269,388,blind
+270,389,intoxicated
+271,391,eat
+272,392,food
+273,393,cooked
+274,394,raw
+275,396,"green, unripe"
+276,397,rotten
+277,398,drink
+278,399,hunger
+279,400,famine
+280,401,thirst
+281,402,suck
+282,403,chew
+283,404,swallow
+284,405,choke
+285,406,cook
+286,407,boil (vb)
+287,408,"roast, fry"
+288,409,bake
+289,410,oven
+290,411,"pot, cooking vessel"
+291,412,kettle
+292,413,pan
+293,414,dish
+294,415,plate
+295,416,bowl
+296,417,"pitcher, jug"
+297,418,"cup, drinking vessel"
+298,419,saucer
+299,420,spoon
+300,421,knife (2)
+301,422,fork (2)
+302,424,meal (a)
+303,425,breakfast
+304,426,lunch
+305,427,dinner
+306,428,supper
+307,429,peel
+308,430,"sieve, strain"
+309,432,"stir, mix"
+310,433,bread
+311,434,dough
+312,436,"meal, flour"
+313,437,"crush, grind"
+314,438,mill
+315,441,meat
+316,442,sausage
+317,443,"soup, broth"
+318,444,vegetables
+319,445,bean
+320,446,potato
+321,447,fruit
+322,448,bunch
+323,449,fig
+324,450,grape
+325,451,nut
+326,452,olive
+327,453,oil
+328,454,"grease, fat"
+329,455,salt
+330,456,pepper
+331,458,honey
+332,459,sugar
+333,460,milk (noun)
+334,461,milk (vb)
+335,462,cheese
+336,463,butter
+337,464,"beverage, drink"
+338,466,wine
+339,467,beer
+340,469,egg
+341,472,"clothing, clothes"
+342,474,cloth
+343,475,wool
+344,476,"linen, flax"
+345,477,cotton
+346,478,silk
+347,479,felt
+348,480,fur
+349,481,leather
+350,482,spin
+351,484,weave
+352,486,sew
+353,487,needle
+354,489,thread
+355,491,cloak
+356,494,coat
+357,495,shirt
+358,496,collar
+359,497,skirt
+360,499,trousers
+361,500,"stocking, sock"
+362,501,shoe
+363,502,boot
+364,503,"shoemaker, cobbler"
+365,504,"hat, cap"
+366,505,"belt, girdle"
+367,506,glove
+368,508,pocket
+369,509,button
+370,510,pin
+371,511,"ornament, adornment"
+372,512,jewel
+373,513,ring (for finger)
+374,514,bracelet
+375,515,necklace
+376,516,bead
+377,517,earring
+378,518,"headband, headdress"
+379,520,"handkerchief, rag"
+380,521,towel
+381,522,comb
+382,523,brush
+383,525,razor
+384,526,ointment
+385,527,soap
+386,528,mirror
+387,529,"dwell, live"
+388,530,house
+389,531,hut
+390,533,tent
+391,534,"yard, court"
+392,538,room
+393,539,"door, gate"
+394,541,lock (noun)
+395,542,"latch, door-bolt"
+396,543,key
+397,544,window
+398,545,floor
+399,546,wall
+400,547,fireplace
+401,548,stove
+402,549,chimney
+403,550,ladder
+404,551,bed
+405,552,pillow
+406,553,blanket
+407,554,chair
+408,555,table
+409,556,"lamp, torch"
+410,557,candle
+411,558,shelf
+412,560,roof
+413,564,beam
+414,565,"post, pole"
+415,566,board
+416,568,mason
+417,569,brick
+418,572,farmer
+419,573,field (for cultivation)
+420,574,garden
+421,575,"cultivate, till"
+422,576,fence
+423,577,ditch
+424,578,plow
+425,580,dig
+426,581,spade
+427,582,shovel
+428,583,hoe
+429,584,fork
+430,585,rake
+431,586,sow
+432,587,seed
+433,588,"mow, reap"
+434,589,"sickle, scythe"
+435,592,"crop, harvest"
+436,593,"grain (barley, oats etc)"
+437,594,wheat
+438,595,barley
+439,596,rye
+440,597,oats
+441,598,"maize, corn"
+442,599,rice
+443,600,grass
+444,601,hay
+445,602,plant (noun)
+446,603,plant (vb)
+447,604,root
+448,605,branch
+449,606,leaf
+450,607,flower
+451,608,tree
+452,609,oak
+453,612,pine
+454,614,acorn
+455,615,vine
+456,616,tobacco
+457,617,smoke (tobacco)
+458,618,pipe
+459,622,bark
+460,623,sap
+461,631,"tapioca, manioc, cassava"
+462,633,"pumpkin, squash"
+463,638,mushroom
+464,639,"do, make"
+465,640,work
+466,641,bend
+467,642,fold
+468,643,"tie, bind"
+469,645,chain
+470,646,"rope, cord"
+471,647,knot (noun)
+472,648,"strike (hit, beat)"
+473,650,cut
+474,652,"chop, hew"
+475,653,stab
+476,654,knife
+477,655,"scissors, shears"
+478,656,ax
+479,658,break
+480,659,broken
+481,660,split
+482,661,tear
+483,662,"flay, skin"
+484,663,"rub, wipe"
+485,664,stretch
+486,665,pull
+487,668,press
+488,669,"squeeze, wring"
+489,670,pour
+490,671,wash
+491,672,sweep
+492,673,broom
+493,674,tool
+494,675,carpenter
+495,676,build
+496,679,saw
+497,680,hammer
+498,681,nail
+499,682,glue
+500,686,cast (metals)
+501,687,gold
+502,688,silver
+503,689,"copper, bronze"
+504,690,iron
+505,691,lead (noun)
+506,692,"tin, tinplate"
+507,694,mold (clay etc)
+508,695,clay
+509,696,glass
+510,697,"weave, plait"
+511,698,basket
+512,699,mat
+513,700,rug
+514,702,fan (noun)
+515,703,fan (vb)
+516,706,statue
+517,707,chisel
+518,708,paint (noun)
+519,709,paint (vb)
+520,710,move
+521,713,"wind, wrap"
+522,714,roll
+523,715,drop (vb)
+524,716,twist
+525,717,rise
+526,718,"raise, lift"
+527,719,fall
+528,720,drip
+529,721,throw
+530,722,catch (ball)
+531,723,shake
+532,724,flow
+533,725,sink
+534,726,float
+535,727,swim
+536,728,dive
+537,729,splash
+538,730,sail (vb)
+539,731,fly (vb)
+540,732,blow
+541,733,"creep, crawl"
+542,734,kneel
+543,736,"slide, slip"
+544,737,"jump, leap"
+545,738,kick
+546,739,dance
+547,740,walk
+548,741,limp
+549,742,run
+550,743,go
+551,745,climb
+552,748,come
+553,750,"go away, depart"
+554,751,disappear
+555,752,flee
+556,753,follow
+557,755,"reach, arrive"
+558,757,enter
+559,758,carry (bear)
+560,763,bring
+561,764,send
+562,765,lead (vb)
+563,766,drive
+564,767,ride
+565,768,"push, shove"
+566,769,road
+567,770,path
+568,771,bridge
+569,772,"carriage, wagon, cart"
+570,773,wheel
+571,775,yoke
+572,776,ship
+573,777,boat
+574,778,canoe
+575,780,raft
+576,781,oar
+577,782,paddle (noun)
+578,783,row (vb)
+579,786,sail (noun)
+580,787,anchor
+581,788,"harbor, port"
+582,789,land (vb)
+583,790,have
+584,791,"own, possess"
+585,792,take
+586,793,"seize, grasp"
+587,794,hold
+588,795,"get, obtain"
+589,796,"keep, retain"
+590,797,thing
+591,798,give
+592,801,"save, rescue"
+593,802,destroy
+594,803,"harm, injure, damage"
+595,804,"seek, look for"
+596,805,find
+597,806,lose
+598,807,"release, let go"
+599,808,money
+600,809,coin
+601,810,rich
+602,811,poor
+603,812,beggar
+604,813,"avaricious, stingy"
+605,814,lend
+606,815,borrow
+607,816,owe
+608,817,debt
+609,818,pay (vb)
+610,819,"account, reckoning"
+611,820,"tax, tribute"
+612,823,earn
+613,824,buy
+614,825,sell
+615,826,"trade, barter"
+616,828,market (place)
+617,829,"store, shop"
+618,830,price
+619,832,cheap
+620,833,share (distribute)
+621,834,weigh
+622,835,after
+623,836,behind
+624,838,"down, below"
+625,839,before
+626,840,front
+627,841,"inside, in"
+628,842,outside
+629,843,under
+630,844,"up, above"
+631,845,place
+632,846,put
+633,847,sit
+634,849,stand
+635,850,"remain, stay"
+636,852,"collect, gather"
+637,855,"join, unite"
+638,856,separate
+639,857,divide
+640,858,open
+641,859,"shut, close"
+642,860,cover
+643,861,"hide, conceal"
+644,862,high
+645,863,low
+646,864,top
+647,865,bottom
+648,866,end
+649,868,edge
+650,869,side
+651,870,"middle, center"
+652,871,right (side)
+653,872,left (side)
+654,873,near (adv)
+655,874,far (adv)
+656,875,east
+657,876,west
+658,877,north
+659,878,south
+660,879,grow
+661,880,measure
+662,881,"span, fathom"
+663,882,"large, big"
+664,883,"small, little"
+665,884,long
+666,885,tall
+667,886,short
+668,887,"wide, broad"
+669,888,narrow
+670,889,thick (in dimension)
+671,890,thin (in dimension)
+672,891,deep
+673,892,shallow
+674,893,flat
+675,894,straight
+676,895,crooked
+677,896,hook
+678,897,corner
+679,898,cross
+680,899,square
+681,900,round
+682,901,circle
+683,902,"sphere, ball"
+684,903,line
+685,904,hole
+686,905,"like, similar"
+687,906,change
+688,907,"zero, nothing"
+689,908,one
+690,909,two
+691,910,three
+692,911,four
+693,912,five
+694,913,six
+695,914,seven
+696,915,eight
+697,916,nine
+698,917,ten
+699,919,twelve
+700,922,hundred
+701,924,count
+702,925,"every, all"
+703,926,"much, many"
+704,927,more
+705,928,"little (quantity), few"
+706,929,enough
+707,930,some
+708,931,"multitude, crowd"
+709,932,full
+710,933,empty
+711,934,"part, piece"
+712,935,half
+713,936,"alone, only"
+714,937,first
+715,938,last
+716,939,second
+717,940,pair
+718,942,third
+719,944,time
+720,945,age
+721,946,new
+722,947,young
+723,948,old
+724,949,early
+725,950,late
+726,951,now
+727,953,"swift, fast, quick"
+728,954,slow
+729,955,"hasten, hurry"
+730,956,"retard, delay"
+731,957,"begin, beginning"
+732,958,"last, endure"
+733,959,end (temporal)
+734,960,finish
+735,961,"cease, stop"
+736,962,ready
+737,963,always
+738,964,often
+739,965,sometimes
+740,966,soon
+741,968,never
+742,969,again
+743,970,day
+744,971,night
+745,972,dawn
+746,973,morning
+747,974,"noon, midday"
+748,975,afternoon
+749,976,evening
+750,977,today
+751,978,tomorrow
+752,980,yesterday
+753,982,hour
+754,983,"clock, timepiece"
+755,984,week
+756,992,month
+757,993,year
+758,994,winter
+759,995,spring
+760,996,summer
+761,997,autumn
+762,998,season
+763,999,smell (vb intrans)
+764,1000,sniff
+765,1001,smell (vb trans)
+766,1004,taste
+767,1005,sweet
+768,1007,bitter
+769,1008,"acid, sour"
+770,1010,hear
+771,1011,listen
+772,1012,"sound, noise"
+773,1013,loud
+774,1014,"quiet, silence"
+775,1015,see
+776,1016,"look, look at"
+777,1017,show
+778,1018,shine
+779,1019,bright
+780,1020,color
+781,1021,light (in color)
+782,1022,dark (in color)
+783,1023,white
+784,1024,black
+785,1025,red
+786,1026,blue
+787,1027,green
+788,1028,yellow
+789,1029,touch
+790,1030,pinch
+791,1031,feel
+792,1032,hard
+793,1033,soft
+794,1034,rough
+795,1035,smooth
+796,1036,sharp
+797,1037,"blunt, dull"
+798,1038,heavy
+799,1039,light (in weight)
+800,1040,"wet, damp"
+801,1041,dry
+802,1042,hot
+803,1043,warm
+804,1044,cold
+805,1045,clean
+806,1046,"dirty, soiled"
+807,1048,"soul, spirit"
+808,1050,"good fortune, luck"
+809,1052,"joyful, glad, happy"
+810,1053,laugh
+811,1054,smile
+812,1055,play
+813,1056,love
+814,1057,kiss
+815,1058,embrace
+816,1059,pain
+817,1060,"grief, sorrow, sadness"
+818,1061,"anxiety, worry"
+819,1062,"regret, be sorry"
+820,1063,pity
+821,1064,"cry, weep"
+822,1065,tear (noun)
+823,1067,hate
+824,1068,anger
+825,1069,"envy, jealousy"
+826,1070,shame (noun)
+827,1071,proud
+828,1072,dare
+829,1073,brave
+830,1074,"fear, fright"
+831,1075,danger
+832,1076,"desire, want"
+833,1077,choose
+834,1078,hope
+835,1079,faithful
+836,1081,"lie, tell lies"
+837,1082,deceit
+838,1083,forgive
+839,1084,good
+840,1085,bad
+841,1086,"right, correct"
+842,1087,wrong
+843,1088,fault
+844,1089,"mistake, error"
+845,1090,blame
+846,1091,praise
+847,1092,beautiful
+848,1093,ugly
+849,1095,clever
+850,1096,mind
+851,1097,think (= reflect)
+852,1098,think (= be of the opinion)
+853,1099,believe
+854,1100,understand
+855,1101,know
+856,1102,guess
+857,1103,imitate
+858,1104,seem
+859,1105,"idea, notion"
+860,1106,wise
+861,1107,"foolish, stupid"
+862,1108,"insane, crazy"
+863,1109,learn
+864,1110,study
+865,1111,teach
+866,1112,pupil
+867,1113,teacher
+868,1114,school
+869,1115,remember
+870,1116,forget
+871,1117,"clear, plain"
+872,1118,obscure
+873,1119,secret
+874,1120,"sure, certain"
+875,1121,explain
+876,1122,"intention, purpose"
+877,1123,cause
+878,1124,doubt
+879,1125,suspect
+880,1126,betray
+881,1127,"need, necessity"
+882,1128,easy
+883,1129,difficult
+884,1130,"try, attempt"
+885,1131,"way, manner"
+886,1133,because
+887,1136,"yes, affirmative"
+888,1137,"no, negative"
+889,1138,how?
+890,1141,what?
+891,1142,when?
+892,1143,where?
+893,1145,who?
+894,1146,why?
+895,1147,voice
+896,1148,sing
+897,1149,"shout, cry out"
+898,1150,whisper
+899,1152,whistle
+900,1155,"speak, talk"
+901,1157,say
+902,1159,speech (make a)
+903,1160,silent (be)
+904,1161,language
+905,1162,word
+906,1163,name
+907,1164,"ask (question, inquire)"
+908,1165,answer
+909,1166,"admit, confess"
+910,1167,deny
+911,1168,"ask, request"
+912,1169,promise
+913,1170,refuse
+914,1171,forbid
+915,1172,"rebuke, scold"
+916,1173,call (=summon)
+917,1174,call (=name)
+918,1175,announce
+919,1178,write
+920,1179,read
+921,1180,paper
+922,1181,pen
+923,1182,book
+924,1183,poet
+925,1184,flute
+926,1185,drum
+927,1186,"horn, trumpet"
+928,1187,rattle
+929,1188,country
+930,1190,"city, town"
+931,1191,village
+932,1192,boundary
+933,1193,people (populace)
+934,1194,"tribe, clan"
+935,1195,"chief, chieftain"
+936,1196,"staff, walking stick"
+937,1197,"rule, govern"
+938,1198,"king, ruler"
+939,1199,queen
+940,1201,"citizen, subject"
+941,1202,master
+942,1203,slave
+943,1204,servant
+944,1206,"command, order"
+945,1207,obey
+946,1208,"let, permit"
+947,1209,"friend, companion"
+948,1210,enemy
+949,1211,neighbor
+950,1212,stranger
+951,1213,guest
+952,1214,host
+953,1215,"help, aid"
+954,1217,custom
+955,1218,"strife, quarrel"
+956,1219,"conspiracy, plot"
+957,1220,meet
+958,1222,fight (vb)
+959,1223,"war, battle"
+960,1224,peace
+961,1225,army
+962,1226,soldier
+963,1227,"weapons, arms"
+964,1228,club
+965,1230,sling
+966,1231,bow
+967,1232,arrow
+968,1234,sword
+969,1235,"gun, cannon"
+970,1236,armor (defensive)
+971,1237,helmet
+972,1238,shield
+973,1240,tower
+974,1241,victory
+975,1242,defeat
+976,1243,attack
+977,1244,defend
+978,1245,retreat
+979,1247,"captive, prisoner"
+980,1248,"guard, sentinel"
+981,1256,bait
+982,1257,hunt
+983,1258,shoot
+984,1259,miss (target)
+985,1260,trap (noun)
+986,1261,trap (vb)
+987,1262,law
+988,1263,court
+989,1264,judge (vb)
+990,1265,judgment
+991,1266,judge (noun)
+992,1269,witness
+993,1270,swear
+994,1271,oath
+995,1272,accuse
+996,1273,condemn
+997,1274,convict (vb)
+998,1276,guilty
+999,1277,innocent
+1000,1278,"penalty, punishment"
+1001,1279,fine
+1002,1280,"prison, jail"
+1003,1281,murder
+1004,1282,adultery
+1005,1283,rape
+1006,1285,perjury
+1007,1286,steal
+1008,1287,thief
+1009,1288,religion
+1010,1290,"temple, church"
+1011,1293,worship
+1012,1294,pray
+1013,1295,priest
+1014,1296,"holy, sacred"
+1015,1298,bless
+1016,1299,curse
+1017,1300,fast (vb)
+1018,1301,heaven
+1019,1302,hell
+1020,1303,demon (evil spirit)
+1021,1304,idol
+1022,1305,"magic, witchcraft, sorcery"
+1023,1306,"sorcerer, witch"
+1024,1307,"fairy, elf"
+1025,1308,"ghost, phantom"
