@@ -20,16 +20,14 @@
 - Folder `usf`: Folder containing 8 predictor matrices constructed from USF as specified in Analysis 3 
 
 ## Analysis 1
-- `[Analysis 1] Combination Model.ipynb`: Multivariate logistic regression's predictive accuracy and variable coefficients. 
-- `[Analysis 1] Logistic Regression.ipynb`: Predictive accuracies of HBC, word2Vec, concreteness, valence, usage frequency.
-- `[Analysis 1] USF.ipynb`: Predictive accuracy of USF. 
+- `logReg_utils.py`: Functions used in Analysis 1. 
+- `Analysis1.ipynb`: Predictive accuracies and variabl coefficients of HBC, USF, word2Vec, concreteness, valence, usage frequency and multivariate regression. 
 
 ## Analysis 2 
-- `[Analysis 2] Combination Model.ipynb`: Multivariate linear regression's Spearman ρ and variable coefficients. 
-- `[Analysis 2] Logistic Regression.ipynb`: Spearman ρ of HBC, word2Vec, concreteness, valence, usage frequency from linear regression.
-- `[Analysis 2] USF.ipynb`: Spearman ρ of USF from linear regression. 
+- `linReg_utils.py`: Functions used in Analysis 2. 
+- `Analysis2.ipynb`: Spearman ρs and variabl coefficients of HBC, USF, word2Vec, concreteness, valence, usage frequency and multivariate regression. 
 
 ## Analysis 3 
-- `[Analysis 2] HBC_Tiering.ipynb`: (main text) Gradient of colexification frequencies in ordered association sets, using HBC. 
-- `[Analysis 2] USF_Tiering.ipynb`: (supplementary material) Gradient of colexification frequencies in ordered association sets, using USF.
+- `tiering_utils.py`: Functions used in Analysis 3. 
+- `Analysis3.ipynb`: Gradient of colexification frequencies in ordered association sets, using HBC, USF. 
 
